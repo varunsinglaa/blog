@@ -16,7 +16,7 @@
 }
 
 .comment-actions {
-    color: #9ecbd2;
+    color: black;
     font-size: 12px;
     text-transform: uppercase;
 }
@@ -27,7 +27,7 @@
 }
 
 .comment-actions a {
-    color: #9ecbd2;
+    color: black;
     text-decoration: underline;
     transition: 0.2s ease-in-out;
 }
@@ -42,11 +42,11 @@
 }
 
 .comment-body {
-    color: red;
+    color: black;
 }
 
 .comment-count {
-    color: #9ecbd2;
+    color: black;
     grid-row: 3;
     grid-column: 1;
     align-items: center;
